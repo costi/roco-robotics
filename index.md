@@ -35,7 +35,9 @@ This summer our crew designed and assembled a robust goBILDA robot:
 
 We captured highlights (photos + short clips) showing teamwork, problem solving, and those first magical inches of robot motion.
 
-> *Add a short video montage here (30–45 sec) and a 3×3 photo grid.*
+![Kids putting together the gobilda FTC Robot](assets/kids-putting-together-ftc-robot.jpeg)
+
+![Building the robot with the instructors](assets/building-the-robot-instructors.jpeg)
 
 ---
 
